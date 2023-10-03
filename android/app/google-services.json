@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234247651900",
+    "project_id": "bug-anonymous-auth",
+    "storage_bucket": "bug-anonymous-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234247651900:android:7440cec1790171d6db3939",
+        "android_client_info": {
+          "package_name": "com.example.bug_anonymous_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9SwWRdNCsh_8ZKURmQBBfX7lHah7xoK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
